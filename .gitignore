@@ -1,0 +1,11 @@
+artifacts/
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+__pycache__/
+*.pfx
+*.p12
+*.key
+*.snk

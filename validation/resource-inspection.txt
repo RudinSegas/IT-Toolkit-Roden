@@ -1,0 +1,6 @@
+PASS: renamed assembly identity 1.0.0.0 and product metadata
+PASS: embedded Icon matches source
+PASS: embedded Logo matches source
+PASS: embedded MainWindow.xaml matches source
+PASS: embedded App.config matches source and distributed config
+PASS: embedded Theme.xaml matches source

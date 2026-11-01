@@ -1,0 +1,2 @@
+Built /workspace/scratch/dec4733029f6/toolkit-public-1/artifacts/portable/IT-Toolkit-Roden.exe
+Built /workspace/scratch/dec4733029f6/toolkit-public-1/artifacts/tests/Toolkit.Tests.exe

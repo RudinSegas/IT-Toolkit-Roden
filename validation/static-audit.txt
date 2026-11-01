@@ -1,0 +1,2 @@
+PASS: XML, 82 command bindings, explicit progress, interactive fixed policy launch/no redirected input, typed installer results, MOTW native API, state-aware entry points and version (static only).
+PASS: preserved page fingerprints (Dashboard branding header excluded), selected-uninstall boundary, official Notepad++ MSI, dynamic helper image and adjacent config (static).

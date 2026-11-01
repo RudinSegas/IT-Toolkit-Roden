@@ -1,0 +1,4 @@
+PASS: 267 core assertions (no Windows GUI/UAC/servicing/installation certification).
+PASS: actual controlled child process, partial output/CR, stdout/stderr, pre-exit delivery and exit 7. Not a Windows servicing test.
+PASS: controlled read-only process deadline/cleanup. Active repair/installers are not force-stopped.
+PASS: actual cancellation, PID exit confirmation and duplicate process prevention.
